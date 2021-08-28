@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaisei+Tokumin:wght@500&display=swap'); 
+
+body { 
+  background-color: #d2a262;
+}
+
+h1 {
+  background-color: #8b451f;
+  font-family: Kaisei+Tokumin;
+}
+
+h2 {
+  font-family: Kaisei+Tokumin;
+}
+
+p {
+  color: #703f34;
+  font-family: Kaisei+Tokumin;
+}
+
+.copyright {
+  color: black;
+}
