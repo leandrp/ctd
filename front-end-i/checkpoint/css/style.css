@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;500;700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: ubuntu, Arial, Helvetica, sans-serif;
+  font-size: 2em;
+  background-image: url("../img/barueri.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  padding-top: 250px;
+  padding-bottom: 15px;
+  text-align: center;
+  color: #fff;
+  text-shadow: 0.1em 0.1em 0.2em black
+}
+
+h2 {
+  padding: 25px;
+  color: #83295c;
+  text-shadow: 3px 3px 7px white;
+}
+
+p {
+  padding: 25px;
+  color: #83295c;+
+  text-shadow: 3px 3px 7px white;
+}
+
+ol {
+  padding-left: 75px;
+  color: #83295c;
+  text-shadow: 3px 3px 7px white;
+}
+
+.header {
+  z-index: 1;
+  position: fixed;
+  top: 0;
+  background-color: #83295c;
+  box-shadow: 5px 3px 3px black;
+  padding: 15px;
+  text-align: center;
+  width: 100%;
+}
+
+.logo-title{
+  background-color: white;
+  padding: 5px;
+}
+
+.menu{
+  z-index: 1;
+  list-style:none;
+  border:3px solid #83295c;
+  background-color: #6cb530;
+  font-family: "Open Sans", "Ubuntu", sans-serif;
+  font-weight: 700;
+  font-size: 2rem;
+  position: fixed;
+  top: 180px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.menu li{
+  position:relative;
+  float:left;
+  border-right:3px solid #83295c;
+}
+
+.menu li a{
+  color:#83295c; 
+  text-decoration:none; 
+  padding:5px 10px; 
+  display:block;
+}
+
+.menu li a:hover{
+  background:#83295c;
+  color:#6cb530;
+}
+
+iframe {
+  width: 1280px;
+  height: 720px;
+  position: relative;
+  top: 364px;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+}
+
+.icon-youtube {
+  width: 100px;
+  position: relative;
+  top: 50px;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);  
+  background-color: #6cb530;
+}
+
+.icon-twitter {
+  width: 100px;
+  position: relative;
+  top: 50px;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  background-color: #6cb530;
+}
+
+.icon-facebook {
+  height: 100px;
+  position: relative;
+  top: 50px;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  background-color: #6cb530;
+}
