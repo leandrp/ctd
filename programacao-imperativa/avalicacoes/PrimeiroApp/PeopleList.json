@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Carlos",
+        "gender": "M",
+        "age": 20,
+        "height": 1.70
+    },
+    {
+        "name": "Maria",
+        "gender": "F",
+        "age": 25,
+        "height": 1.80
+    },
+    {
+        "name": "Vivi",
+        "gender": "F",
+        "age": 25,
+        "height": 1.74
+    },
+    {
+        "name": "Joao",
+        "gender": "M",
+        "age": 40,
+        "height": 1.65
+    },
+    {
+        "name": "Marcos",
+        "gender": "M",
+        "age": 40,
+        "height": 1.60
+    },
+    {
+        "name": "Ana",
+        "gender": "F",
+        "age": 45,
+        "height": 1.44
+    },
+    {
+        "name": "Fernanda",
+        "gender": "F",
+        "age": 15,
+        "height": 1.55
+    },
+    {
+        "name": "Luis",
+        "gender": "M",
+        "age": 36,
+        "height": 2.10
+    },
+    {
+        "name": "Thiago",
+        "gender": "M",
+        "age": 24,
+        "height": 1.64
+    },
+    {
+        "name": "Daniel",
+        "gender": "M",
+        "age": 55,
+        "height": 1.45
+    },
+    {
+        "name": "Fatima",
+        "gender": "F",
+        "age": 76,
+        "height": 1.50
+    },
+    {
+        "name": "Pedro",
+        "gender": "M",
+        "age": 55,
+        "height": 1.86
+    },
+    {
+        "name": "Vitor",
+        "gender": "M",
+        "age": 14,
+        "height": 1.69
+    },
+    {
+        "name": "Samuel",
+        "gender": "M",
+        "age": 10,
+        "height": 1.35
+    },
+    {
+        "name": "Eduarda",
+        "gender": "F",
+        "age": 23,
+        "height": 1.64
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "name": "Carlos",
+        "age": 20,
+        "score": 2
+    },
+    {
+        "name": "Beatriz",
+        "age": 23,
+        "score": 3
+    },
+    {
+        "name": "Ana",
+        "age": 27,
+        "score": 1
+    },
+    {
+        "name": "Joao",
+        "age": 27,
+        "score": 3
+    },
+    {
+        "name": "Fernanda",
+        "age": 27,
+        "score": 1
+    },
+    {
+        "name": "Vitor",
+        "age": 22,
+        "score": 2
+    },
+    {
+        "name": "Maria",
+        "age": 37,
+        "score": 2
+    },
+    {
+        "name": "Marcelo",
+        "age": 55,
+        "score": 1
+    },
+    {
+        "name": "Adriana",
+        "age": 33,
+        "score": 1
+    },
+    {
+        "name": "Larissa",
+        "age": 35,
+        "score": 2
+    },
+    {
+        "name": "Gabriele",
+        "age": 29,
+        "score": 3
+    },
+    {
+        "name": "Gabriela",
+        "age": 28,
+        "score": 2
+    },
+    {
+        "name": "Marcia",
+        "age": 34,
+        "score": 3
+    },
+    {
+        "name": "Rodolfo",
+        "age": 55,
+        "score": 2
+    },
+    {
+        "name": "Anderson",
+        "age": 26,
+        "score": 3
+    }
+]
