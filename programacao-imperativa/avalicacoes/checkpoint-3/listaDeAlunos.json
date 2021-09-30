@@ -1,0 +1,32 @@
+[
+    {
+        "nome": "Ualace",
+        "faltas": 4,
+        "notas": [10, 8, 10, 10]
+    },
+    {
+        "nome": "Mariana",
+        "faltas": 1,
+        "notas": [10, 8, 5, 10]
+    },
+    {
+        "nome": "Dharuan",
+        "faltas": 10,
+        "notas": [0, 5, 7, 2]
+    },
+    {
+        "nome": "Ewerton",
+        "faltas": 0,
+        "notas": [10, 5, 7, 0]
+    },
+    {
+        "nome": "Leandro",
+        "faltas": 3,
+        "notas": [10, 10, 7, 10]
+    },
+    {
+        "nome": "Pedro",
+        "faltas": 9,
+        "notas": [10, 0, 7, 0]
+    }
+]
